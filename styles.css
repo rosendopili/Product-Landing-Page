@@ -75,12 +75,11 @@ a:hover {
 }
 
 #header-img {
-  max-width: 40vw;
-  height: 10vh;
-  min-width: 20vw;
+  width: 30vw;
+  min-width: 250px;
   object-fit: contain;
   position: fixed;
-  margin-top: 17px;
+  margin-top: 25px;
 }
 
 
@@ -181,6 +180,7 @@ h5 {
   .about-p, h2 {
     font-size: 15px;
   }
+
 }
 
 .about-p{
